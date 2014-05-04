@@ -1,7 +1,7 @@
 tomcat4-manager-connectors
 ==========================
 
-Shows processosrs stats in Connectors in tomcat 4.0.6 using java 1.3
+Shows processors stats in connectors in tomcat 4.0.6 manager using java 1.3
 
 To use the class:
 
@@ -10,5 +10,5 @@ To use the class:
 
 PD: Only Tested with java 1.3 and tomcat 4.0.6
 
-In newer versions, perhaps you should use jmx instead.
+In newer versions, perhaps you should use JMX instead.
 
